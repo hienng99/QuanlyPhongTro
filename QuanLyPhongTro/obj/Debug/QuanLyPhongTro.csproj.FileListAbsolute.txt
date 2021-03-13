@@ -1,0 +1,17 @@
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmAdmin.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTaoTaiKhoan.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmSuaThongTin.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmThemDichVu.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmSuaThongTin2.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmThemPhong.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmNhanVien.resources
+D:\CSharp\DoAnCuaTao\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmSuDungDichVu.resources
